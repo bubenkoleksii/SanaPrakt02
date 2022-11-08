@@ -14,3 +14,5 @@
 - [x] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав: <em><strong>Олексій Бубенко<em><strong>
